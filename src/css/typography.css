@@ -1,0 +1,12 @@
+.right-align-text {
+  text-align: right;
+}
+
+.center-align-text {
+  text-align: center;
+}
+
+.caption {
+  color: grey;
+  font-style: italic;
+}
